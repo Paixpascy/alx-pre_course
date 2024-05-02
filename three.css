@@ -1,0 +1,41 @@
+.content h1
+{
+    margin-left: 300px;
+    font-weight: lighter;
+    color: orange;
+    padding-bottom: 50px;
+}
+.content span
+{
+    padding-left: 30px;
+    font-size: larger;
+    padding-top: 5px;
+}
+.content h1 strong
+{
+    font-size: 90px;
+    color:transparent;
+    -webkit-text-stroke: 1px white;
+    text-transform: uppercase;
+    font-family: Arial;
+}
+.content ul
+{
+    display: flex;
+    list-style: none;
+   color: aliceblue;
+}
+.content ul li p
+{
+   padding-left: 30px; 
+  
+}
+.content ul li 
+{
+    padding-left: 50px;
+}
+
+body
+{
+    background-image: url(R.jpeg);
+}
